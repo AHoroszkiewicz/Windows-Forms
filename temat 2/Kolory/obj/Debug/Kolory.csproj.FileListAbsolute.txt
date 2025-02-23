@@ -1,0 +1,10 @@
+E:\Studia\Windows Forms\temat 1\Kolory\bin\Debug\Kolory.exe.config
+E:\Studia\Windows Forms\temat 1\Kolory\bin\Debug\Kolory.exe
+E:\Studia\Windows Forms\temat 1\Kolory\bin\Debug\Kolory.pdb
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.csproj.AssemblyReference.cache
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.Form1.resources
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.Properties.Resources.resources
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.csproj.GenerateResource.cache
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.csproj.CoreCompileInputs.cache
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.exe
+E:\Studia\Windows Forms\temat 1\Kolory\obj\Debug\Kolory.pdb
