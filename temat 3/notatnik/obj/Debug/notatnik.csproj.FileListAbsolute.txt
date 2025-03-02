@@ -1,0 +1,10 @@
+E:\Studia\Windows Forms\temat 3\notatnik\bin\Debug\notatnik.exe.config
+E:\Studia\Windows Forms\temat 3\notatnik\bin\Debug\notatnik.exe
+E:\Studia\Windows Forms\temat 3\notatnik\bin\Debug\notatnik.pdb
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.csproj.AssemblyReference.cache
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.Form1.resources
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.Properties.Resources.resources
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.csproj.GenerateResource.cache
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.csproj.CoreCompileInputs.cache
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.exe
+E:\Studia\Windows Forms\temat 3\notatnik\obj\Debug\notatnik.pdb
