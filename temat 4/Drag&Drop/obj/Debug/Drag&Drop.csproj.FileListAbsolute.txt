@@ -1,0 +1,10 @@
+E:\Studia\Windows Forms\temat 4\Drag&Drop\bin\Debug\Drag&Drop.exe.config
+E:\Studia\Windows Forms\temat 4\Drag&Drop\bin\Debug\Drag&Drop.exe
+E:\Studia\Windows Forms\temat 4\Drag&Drop\bin\Debug\Drag&Drop.pdb
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag&Drop.csproj.AssemblyReference.cache
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag_Drop.Form1.resources
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag_Drop.Properties.Resources.resources
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag&Drop.csproj.GenerateResource.cache
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag&Drop.csproj.CoreCompileInputs.cache
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag&Drop.exe
+E:\Studia\Windows Forms\temat 4\Drag&Drop\obj\Debug\Drag&Drop.pdb
