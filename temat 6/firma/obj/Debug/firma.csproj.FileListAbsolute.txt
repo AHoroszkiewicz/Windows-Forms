@@ -1,0 +1,12 @@
+E:\Studia\Windows Forms\temat 6\firma\bin\Debug\firma.mdf
+E:\Studia\Windows Forms\temat 6\firma\bin\Debug\firma_log.ldf
+E:\Studia\Windows Forms\temat 6\firma\bin\Debug\firma.exe.config
+E:\Studia\Windows Forms\temat 6\firma\bin\Debug\firma.exe
+E:\Studia\Windows Forms\temat 6\firma\bin\Debug\firma.pdb
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.csproj.AssemblyReference.cache
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.Properties.Resources.resources
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.csproj.GenerateResource.cache
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.csproj.CoreCompileInputs.cache
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.exe
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.pdb
+E:\Studia\Windows Forms\temat 6\firma\obj\Debug\firma.Form1.resources
