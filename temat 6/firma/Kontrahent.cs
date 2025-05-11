@@ -7,7 +7,7 @@ using System.Data.Linq.Mapping;
 
 namespace firma
 {
-    [Table(Name = "Kontrahent")]
+    [Table(Name = "Kontrahenci")]
     internal class Kontrahent
     {
         [Column(Name = "Id", IsPrimaryKey = true, CanBeNull = false)] public int Id;

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "E:\\Studia\\Windows Forms\\temat 6\\firma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|e:\\studia\\windows forms\\temat 6\\firma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|e:\\studia\\windows forms\\temat 6\\firma\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|solutionrelative:pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|e:\\studia\\windows forms\\temat 6\\firma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|E:\\Studia\\Windows Forms\\temat 6\\firma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|e:\\studia\\windows forms\\temat 6\\firma\\kontrahent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|solutionrelative:kontrahent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|e:\\studia\\windows forms\\temat 6\\firma\\fakturasprzedazy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|solutionrelative:fakturasprzedazy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|e:\\studia\\windows forms\\temat 6\\firma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA74289-B9FF-4DBB-ABA3-4578A0794D2F}|firma.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,63 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Form1.cs*",
               "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAACgBAAAAAAAAAAAiwD8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:35:23.195Z",
+              "WhenOpened": "2025-05-11T11:50:59.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Kontrahent.cs",
-              "DocumentMoniker": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Kontrahent.cs",
-              "RelativeDocumentMoniker": "Kontrahent.cs",
-              "ToolTip": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Kontrahent.cs",
-              "RelativeToolTip": "Kontrahent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:31:39.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pracownik.cs",
-              "DocumentMoniker": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Pracownik.cs",
-              "RelativeDocumentMoniker": "Pracownik.cs",
-              "ToolTip": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Pracownik.cs",
-              "RelativeToolTip": "Pracownik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:29:35.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FakturaSprzedazy.cs",
-              "DocumentMoniker": "E:\\Studia\\Windows Forms\\temat 6\\firma\\FakturaSprzedazy.cs",
-              "RelativeDocumentMoniker": "FakturaSprzedazy.cs",
-              "ToolTip": "E:\\Studia\\Windows Forms\\temat 6\\firma\\FakturaSprzedazy.cs",
-              "RelativeToolTip": "FakturaSprzedazy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:21:33.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "E:\\Studia\\Windows Forms\\temat 6\\firma\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
